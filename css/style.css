@@ -1,4 +1,4 @@
-/* Yleiset luokat */
+/**** Yleiset luokat ****/
 
 .nohpadding {
 	padding-left: 0;
@@ -10,44 +10,57 @@
 }
 
 .row-centered {
-    text-align:center;
+    text-align: center;
 }
+
 .col-centered {
     display:inline-block;
-    float:none;
-    /* reset the text-align */
-    text-align:left;
-    /* inline-block space fix */
-    margin-right:-4px;
+    float: none;
+    /**** reset the text-align ****/
+    text-align: left;
+    /**** inline-block space fix ****/
+    /*margin-right: -4px;*/
 }
 
-/* Typografia */
+/**** Typografia ****/
 
 .container-fluid {
-	font-size: 20px;
-	line-height: 2;
+	font-size: 19px;
+	line-height: 1.5;
 }
 
-.navbar-header a, .navi, #juhlaviikko, h2 {
+a.navbar-brand, #nav, #juhlaviikko, h2 {
 	font-size: 40px;
 	font-weight: bold;
 	font-family: 'Montserrat', sans-serif;
 }
 
-.navbar-header a:visited, .navbar-header a:active {
-	color: cyan;
+a.navbar-brand {
+	font-size: 25px;
+	height: 30px;
+	margin-top: -0.35em;
+	color: white;
+	/****-10px;****/
 }
 
-.navbar-nav a {
+a.navbar-brand:visited, a.navbar-brand:hover, a.navbar-brand:active {
+	color: white !important;
+}
+
+#nav a {
 	color: white;
 	font-size: 30px;
 }
 
-.active a {
-	color: cyan;
+#nav>li.active>a {
+	border-bottom: 3px solid cyan;
 }
 
-.nav>li>a:hover, .nav>li>a:focus {
+#nav>li>a {
+	background-color: transparent;
+}
+
+#nav>li>a:hover, #nav>li>a:focus {
 	color: cyan;
     background-color: transparent;
 }
@@ -58,23 +71,38 @@ h2 {
 
 p {
 	margin-top: 0;
-	margin-bottom: 3em;
+	margin-bottom: 0.8em;
 }
 
-/* Header */
+.navbar-toggle {
+	color: white;
+}
+
+@media screen and (max-width: 568px) {
+    .lead {
+        font-size:0.8em;
+    }
+}
+
+/**** Header ****/
 
 .navi {
-	background-color: black;
+	background-color: rgba(0, 0, 0, 0.85);
 	border-bottom: 1px solid white;
 	padding-top: 1%;
 	padding-bottom: 1%;
 }
 
-.navbar-brand {
-	width: 300px;
+.navbar-header {
+	padding: 0;
 }
 
-/* Sivun yläosan kuva ja syaani palkki */
+.nappi {
+	margin-top: -0.25em;
+	margin-right: 0.2em;
+}
+
+/**** Sivun yläosan kuva ja syaani palkki ****/
 
 .image-bar-container {
 	position: relative;
@@ -87,13 +115,13 @@ p {
 #juhlaviikko {
 	background-color: rgba(0, 255, 255, 0.8);
 	position: absolute;
-	top: 50%;
+	top: 60%;
 	width: 100%;
-	padding-top: 6%;
-	padding-bottom: 6%;
+	padding-top: 2%;
+	padding-bottom: 2%;
 }
 
-/* Keltainen osuus */
+/**** Keltainen osuus ****/
 
 #naytelma {
 	background-color: yellow;
@@ -102,4 +130,59 @@ p {
 #bw {
 	background-color: black;
 	color: white;
+	padding-top: 0.8em;
+}
+
+/**** Etc. ****/
+
+.content-bar {
+	padding-bottom: 0.8em;
+}
+
+.btn-fb {
+	background-color: rgb(61, 80, 159);
+	color: white;
+}
+
+.btn-fb:hover {
+	background-color: rgb(45, 58, 112);
+	color: white;
+}
+
+.btn-ilmo {
+	border-color: cyan;
+}
+
+.glyph-nuoli {
+	font-size: 0.8em;
+}
+
+.section {
+	position: absolute;
+	bottom: 50px;
+}
+
+/**** Responsiivisuus ****/
+
+@media screen and (max-width: 768px) {
+    .nappi {
+        width: 40px;
+        margin-top: -0.05em;
+        content: url("../img/nappi40px.png")
+    }
+    #juhlaviikko {
+    	font-size: 20px;
+    	padding-top: 0.8em;
+    	padding-bottom: 0.8em;
+    }
+    h2 {
+    	font-size: 25px;
+    	margin-top: 0;
+    }
+    #img-top {
+    	content: url("../img/top-xs.jpg");
+    }
+	.container-fluid {
+		font-size: 16px;
+	}
 }
