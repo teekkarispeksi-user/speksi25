@@ -39,7 +39,7 @@ a.navbar-brand {
 	font-size: 25px;
 	height: 30px;
 	margin-top: -0.35em;
-	color: white;
+	color: white !important;
 	/****-10px;****/
 }
 
@@ -168,7 +168,7 @@ p {
     .nappi {
         width: 40px;
         margin-top: -0.05em;
-        content: url("../img/nappi40px.png")
+        content: url("../img/nappi40.png");
     }
     #juhlaviikko {
     	font-size: 20px;
