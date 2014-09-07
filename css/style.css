@@ -66,7 +66,7 @@ a.navbar-brand:visited, a.navbar-brand:hover, a.navbar-brand:active {
 }
 
 h2 {
-	margin: 1.5em 0 0.8em 0;
+	margin: 0 0 0.8em 0;
 }
 
 p {
@@ -130,13 +130,12 @@ p {
 #bw {
 	background-color: black;
 	color: white;
-	padding-top: 0.8em;
 }
 
 /**** Etc. ****/
 
 .content-bar {
-	padding-bottom: 0.8em;
+	padding: 3em 0 3em 0;
 }
 
 .btn-fb {
@@ -177,13 +176,15 @@ p {
     }
     h2 {
     	font-size: 25px;
-    	margin-top: 0;
     }
     #img-top {
     	content: url("../img/top-xs.jpg");
     }
 	.container-fluid {
 		font-size: 16px;
+	}
+	.content-bar {
+		padding: 2em 0 2em 0;
 	}
 }
 
