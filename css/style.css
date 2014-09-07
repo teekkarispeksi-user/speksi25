@@ -205,11 +205,27 @@ li.gaala {
 
 /**** Responsiivisuus ****/
 
-@media screen and (max-width: 482px) {
+@media screen and (max-width: 480px) {
 	a.navbar-brand {
 		font-size: 20px;
 		margin-top: -0.45em;
 	}
+    #juhlaviikko {
+    	font-size: 15px !important;
+    }
+    h2 {
+    	font-size: 19px !important;
+    }
+    h3 {
+    	font-size: 17px !important;
+    }
+    .container-fluid {
+		font-size: 12px !important;
+	}
+    .btn-ohjelma {
+		font-size: 12px !important;
+	}
+}
 
 @media screen and (max-width: 768px) {
     .nappi {
@@ -231,6 +247,9 @@ li.gaala {
 	.container-fluid {
 		font-size: 16px;
 	}
+	.btn-ohjelma {
+		font-size: 16px;
+	}
 	.content-bar {
 		padding: 2em 0 2em 0;
 	}
@@ -238,6 +257,10 @@ li.gaala {
 
 @media screen and (max-width: 992px) {
 	#nav a {
-		font-size: 22px !important;
+		font-size: 25px !important;
 	}
+	#juhlaviikko {
+    	font-size: 20px;
+    }
+
 }
