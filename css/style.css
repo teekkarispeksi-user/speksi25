@@ -121,14 +121,19 @@ p {
 	padding-bottom: 2%;
 }
 
-/**** Keltainen osuus ****/
+/**** Väripalkkien osuus ****/
 
-#naytelma {
+.keltainen {
 	background-color: yellow;
 }
 
-#bw {
+.mustavalkoinen {
 	background-color: black;
+	color: white;
+}
+
+.sininen {
+	background-color: blue;
 	color: white;
 }
 
