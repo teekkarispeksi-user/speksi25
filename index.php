@@ -27,6 +27,24 @@
               changeHash: false,
               filter: ':not(.external)'
       });
+      var hashTagActive = "";
+      $(".scroll").click(function (event) {
+        if(hashTagActive != this.hash) { //this will prevent if the user click several times the same link to freeze the scroll.
+            event.preventDefault();
+            //calculate destination place
+            var dest = 0;
+            if ($(this.hash).offset().top > $(document).height() - $(window).height()) {
+                dest = $(document).height() - $(window).height();
+            } else {
+                dest = $(this.hash).offset().top;
+            }
+            //go to destination
+            $('html,body').animate({
+                scrollTop: dest
+            }, 1000, 'swing');
+            hashTagActive = this.hash;
+        }
+    });
     });
     </script>
    	<div class="container-fluid nohpadding">
@@ -64,11 +82,31 @@
             Juhlaviikon ohjelma tarjoaa nähtävää ja koettavaa sekä uusille että erityisesti vanhoille speksiläisille.
           </p>
           <h3>Ohjelma</h3>
-          <ul>
-            <li><a href="#sect-naytelma">Juhlarevyy Aleksanterin teatterissa ma 13.10.2014</a></li>
-            <li><a href="#sect-naytelma">Juhlarevyy Aleksanterin teatterissa ti 14.10.2014</a></li>
-            <li><a href="http://teekkarispeksi.fi/speksi/tapahtumat/vanhan-speksin-katseluilta-gorsussa" class="external">Vanhojen speksien katseluilta to 16.10.2014</a></li>
-            <li><a href="#sect-juhla">Vuosijuhlagaala la 18.10.2014</a></li>
+          <ul class="media-list">
+            <a class="btn btn-link btn-ohjelma scroll" href="#sect-naytelma">
+              <li class="media revyy">
+                <div class="media-body">
+                  <h4 class="media-heading">Juhlarevyy</h4>
+                  Aleksanterin teatterissa ma 13.10.2014 ja ti 14.10.2014
+                </div>
+              </li>
+            </a><br>
+            <a class="btn btn-link btn-ohjelma external" href="http://teekkarispeksi.fi/speksi/tapahtumat/vanhan-speksin-katseluilta-gorsussa">
+              <li class="media">
+                <div class="media-body katseluilta">
+                  <h4 class="media-heading">Vanhojen speksien katseluilta</h4>
+                  Gorsussa to 16.10.2014
+                </div>
+              </li>
+            </a><br>
+            <a class="btn btn-link btn-ohjelma scroll" href="#sect-juhla">
+              <li class="media gaala">
+                <div class="media-body">
+                  <h4 class="media-heading">Vuosijuhlagaala</h4>
+                  Suvilahden Kattilahallissa la 18.10.2014
+                </div>
+              </li>
+            </a>
           </ul>
         </div>
       </div>
