@@ -172,7 +172,7 @@
           Tunnetko itsesi tärkeämmäksi kuin muut? Haluatko jakaa menestystäsi meille muille? Haluatko omaa tilaa ja erinomaisempaa palvelua?
         </p>
         <p>
-        Juhlaan on saatavilla myös rajoitettu erä VIP-paketteja, jotka antavat erinomaisen tavan tukea Teekkarispeksi ry:n toimintaa. VIP-vierailla on oma sisäänkäynti ohi jonojen, erillinen VIP-lounge tarjoiluineen, mahdollisuus päästä backstagelle tapaamaan illan esiintyjiä sekä paljon muuta!
+        Juhlaan on saatavilla myös rajoitettu erä VIP-paketteja, jotka antavat erinomaisen tavan tukea Teekkarispeksi ry:n toimintaa. VIP-vierailla on oma sisäänkäynti ohi jonojen, erillinen VIP-lounge tarjoiluineen, mahdollisuus päästä backstagelle tapaamaan illan esiintyjiä sekä paljon muuta! VIP-elämyksen hinta on vain 125 &euro;.
         </p>
         <p>
           Lisätietoja <a href="kauppa/#/gaala">lippukaupasta</a> tai sähköpostilla <a href="mailto:teppo.nurminen@speksi25.com?Subject=VIP-kysymys%20juhlagaalasta">teppo.nurminen@speksi25.com</a>.
