@@ -168,7 +168,7 @@ p {
     .nappi {
         width: 40px;
         margin-top: -0.05em;
-        content: url("../img/nappi40.png");
+        /*content: url("../img/nappi40.png");*/
     }
     #juhlaviikko {
     	font-size: 20px;
@@ -184,5 +184,11 @@ p {
     }
 	.container-fluid {
 		font-size: 16px;
+	}
+}
+
+@media screen and (max-width: 992px) {
+	#nav a {
+		font-size: 22px;
 	}
 }
