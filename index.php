@@ -27,6 +27,24 @@
               changeHash: false,
               filter: ':not(.external)'
       });
+      var hashTagActive = "";
+      $(".scroll").click(function (event) {
+        if(hashTagActive != this.hash) { //this will prevent if the user click several times the same link to freeze the scroll.
+            event.preventDefault();
+            //calculate destination place
+            var dest = 0;
+            if ($(this.hash).offset().top > $(document).height() - $(window).height()) {
+                dest = $(document).height() - $(window).height();
+            } else {
+                dest = $(this.hash).offset().top;
+            }
+            //go to destination
+            $('html,body').animate({
+                scrollTop: dest
+            }, 1000, 'swing');
+            hashTagActive = this.hash;
+        }
+    });
     });
     </script>
    	<div class="container-fluid nohpadding">
@@ -61,14 +79,34 @@
         <div class="col-xs-12 col-sm-9 col-lg-8 col-centered">
           <h2>Vuosijuhlaviikon tapahtumat</h2>
           <p>
-            Juhlaviikon ohjelma tarjoaa nähtävää ja koettavaa sekä uusille että vanhoille speksiläisille. 
+            Teekkarispeksi juhlii 25-vuotista taivaltaan tänä syksynä. Juhlaviikon ohjelma tarjoaa nähtävää ja koettavaa sekä uusille että vanhoille speksiläisille. 
           </p>
           <h3>Ohjelma</h3>
-          <ul>
-            <li><a href="#sect-naytelma">Juhlarevyy</a> Aleksanterin teatterissa ma 13.10.2014</li>
-            <li>Juhlarevyy Aleksanterin teatterissa ti 14.10.2014</li>
-            <li>Vanhojen speksien <a href="http://teekkarispeksi.fi/speksi/tapahtumat/vanhan-speksin-katseluilta-gorsussa" class="external">katseluilta</a> to 16.10.2014</li>
-            <li><a href="#sect-juhla">Juhlagaala</a> la 18.10.2014</li>
+          <ul class="media-list">
+            <a class="btn btn-link btn-ohjelma scroll" href="#sect-naytelma">
+              <li class="media revyy">
+                <div class="media-body">
+                  <h4 class="media-heading">Juhlarevyy</h4>
+                  Aleksanterin teatterissa ma 13.10.2014 ja ti 14.10.2014
+                </div>
+              </li>
+            </a><br>
+            <a class="btn btn-link btn-ohjelma external" href="http://teekkarispeksi.fi/speksi/tapahtumat/vanhan-speksin-katseluilta-gorsussa">
+              <li class="media">
+                <div class="media-body katseluilta">
+                  <h4 class="media-heading">Vanhojen speksien katseluilta</h4>
+                  Gorsussa to 16.10.2014
+                </div>
+              </li>
+            </a><br>
+            <a class="btn btn-link btn-ohjelma scroll" href="#sect-juhla">
+              <li class="media gaala">
+                <div class="media-body">
+                  <h4 class="media-heading">Vuosijuhlagaala</h4>
+                  Suvilahden Kattilahallissa la 18.10.2014
+                </div>
+              </li>
+            </a>
           </ul>
         </div>
       </div>
@@ -149,17 +187,13 @@
         <div class="col-lg-1 col-centered"></div>
         <div class="col-xs-12 col-sm-9 col-lg-8 col-centered">
           <h2>Teekkarispeksin historia</h2>
-          <h3>Speksi Ruotsissa</h3>
-          <p>
-            Speksiperinteen juuret ulottuvat Pohjanlahden toiselle puolelle, 1500-luvun Uppsalaan, jossa ylioppilaille opetettiin latinaa teatterin avulla. Näytelmät perustuivat klassisiin teemoihin ja silloisesta opiskelijoiden sukupuolijakaumasta johtuen näyttelijät olivat kaikki miehiä. He esittivät niin historian suurmiehiä kuin hemaisevia kaunottariakin. Seuraavien 300 vuoden kuluessa ruotsalainen speksi sai nykyisen muotonsa improvisaatioon nojaavana musikaalifarssina. Tekniikan ylioppilaat ovat olleet vahvasti mukana luomassa ja muovaamassa speksiperinnettä ja Ruotsin suurin speksi onkin pitkään ollut Kungliga Teknikska Högskolanin Kårspexet. Speksit elävät naapurimaassamme voimakkaana ja nykyään lähes jokaisella opiskelijayhteisöllä on oma vuotuinen speksinsä.
-          </p>
           <h3>Speksin ensiaskeleet Suomessa</h3>
           <p>
             Suomeen speksi rantautui vuonna 1933 Teknillisen Korkeakoulun Ylioppilaskunnan menestyksekkäänä tempauksena. Tempausmuotoisia teekkarispeksejä toteutettin parinkymmenen vuoden tauon jälkeen vielä viisi kappaletta 1950- ja 1960-luvuilla. Teekkarispeksi saavutti suunnattoman suosion niin teekkareiden kuin suurenkin yleisön keskuudessa. Näiden jo legendaarisen maineen saavuttaneiden produktioiden jälkeen koitti kuitenkin pitkä hiljaisuus. Aatteen palo sammutti speksiperinteen 60-luvulla ja viimeinen vanhan ajan Teekkarispeksi Vanhat portaat esitettiin vuonna 1967. Speksiperinne hiipui ja unohtui. Ainoastaan 1950-luvulla alkanut ruotsinkielinen Medicinarklubben Thoraxin speksi porskutti eteenpäin ja onkin nykyään kiistatta vanhin suomalainen speksi.
           </p>
           <h3>Speksin toinen tuleminen</h3>
           <p>
-            Speksiperinne alkoi heräillä henkiin, kun Lääketieteellisen kandidaattiseuran ensimmäinen speksi sai ensi-iltansa vuonna 1988, vieden toisiksi vanhimman suomalaisen speksin arvonimen. Kului vielä kaksi vuotta ennen kuin tekniikan ylioppilaista löytyi jälleen se tarvittava kipinä, jonka speksin tekeminen vaatii. Kaksi kunnianhimoista teekkaria päätti herättää speksiperinteen henkiin ja näin syntyi Gordon. Se oli menestys: kahdessa esityksessä kävi lähes tuhat katsojaa. Suomen kolmanneksi vanhin speksi oli saanut alkunsa. Kun pyörä oli saatu pyörimään, ei sitä voinut pysäyttää enää mikään. Toinen toistaan upeammat Teekkarispeksit seurasivat Gordonia. Ammattiohjaaja tuotiin mukaan jo alkuvaiheessa ja onkin pysynyt Teekkarispeksin omaleimaisena piirteenä: jopa Ruotsissa ohjaajat valitaan opiskelijoiden joukosta. Vuosien saatossa Teekkarispeksin ammattitaito ja kunnianhimo on kasvanut: esimerkiksi teatteritekniikan toteutus lähentelee nykyään ammattilaisjälkeä. Teekkarispeksi on vakiinnuttanut asemansa teekkareiden ja muiden opiskelijoiden keskuudessa ja löytänyt omat ystävänsä myös suuresta yleisöstä.
+            Speksiperinne alkoi heräillä henkiin, kun Lääketieteellisen kandidaattiseuran ensimmäinen speksi sai ensi-iltansa vuonna 1988, vieden toisiksi vanhimman suomalaisen speksin arvonimen. Kului vielä kaksi vuotta ennen kuin tekniikan ylioppilaista löytyi jälleen se tarvittava kipinä, jonka speksin tekeminen vaatii. Kaksi kunnianhimoista teekkaria päätti herättää speksiperinteen henkiin ja näin syntyi Gordon. Se oli menestys: kahdessa esityksessä kävi lähes tuhat katsojaa. Suomen kolmanneksi vanhin speksi oli saanut alkunsa. Kun pyörä oli saatu pyörimään, ei sitä voinut pysäyttää enää mikään. Toinen toistaan upeammat Teekkarispeksit seurasivat Gordonia. Tänä vuonna uuden ajan Teekkarispeksi juhlii 25. syntymäpäiväänsä.
           </p>
           <p><strong>Lisää tietoa Teekkarispeksistä löydät yhdistyksen sivuilta: <a href="http://www.teekkarispeksi.fi/">www.teekkarispeksi.fi.</a></strong>
         </div>
