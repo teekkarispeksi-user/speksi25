@@ -126,7 +126,7 @@
           <b>Illalliskortit:</b> 50/85 euroa
         </p>
         <p>
-          <a href="http://kauppa.speksi25.com/" class="btn btn-default btn-lg" role="button">Ilmoittaudu</a>
+          <a href="kauppa/#/gaala" class="btn btn-default btn-lg" role="button">Ilmoittaudu</a>
           <a href="https://www.facebook.com/events/679685888786138" class="btn btn-default btn-lg btn-fb" role="button">Facebook-tapahtuma</a><br>   
         </p>
         <h3>VIP-vieraaksi?</h3>
@@ -137,7 +137,7 @@
         Vuosijuhlagaalaan on myynnissä myös rajoitettu erä VIP-paketteja, jotka antavat erinomaisen tavan tarjota tukeaan Teekkarispeksi ry:lle. VIP-vierailla on oma sisäänkäynti ohi jonojen, erillinen VIP-lounge tarjoiluineen, mahdollisuus päästä backstagelle tapaamaan illan esiintyjiä, sekä paljon muuta!
         </p>
         <p>
-          Lisätietoja <a href="kauppa/">lippukaupasta.</a>
+          Lisätietoja <a href="kauppa/#/gaala">lippukaupasta.</a>
         </p>
         </div>
       </div>
