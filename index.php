@@ -7,9 +7,9 @@
     <title>Speksi 25v</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
-    <link href='http://fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>
-    <link href='http://fonts.googleapis.com/css?family=Montserrat:700' rel='stylesheet' type='text/css'>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <link href='//fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>
+    <link href='//fonts.googleapis.com/css?family=Montserrat:700' rel='stylesheet' type='text/css'>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/jquery.scrollTo.min.js"></script>
     <script src="js/jquery.nav.js"></script>
@@ -137,7 +137,7 @@
           Esitys ei kuitenkaan ole vain ilotulitusta aisteille, vaan ohjelmanumerot nivoo yhteen tarina speksiläisyydestä. Mitä tarkoittaa, että speksissä ovat komeimmat miehet ja kauneimmat naiset? Että speksi on älyn voitto materiasta ja luovuuden voitto rutiineista? Että speksi on ja voi?
         </p>
         <p>
-          <b>Tule ottamaan selvää - ja näkemään parhaat palat 25 vuoden teekkarispeksihistoriasta!</b>
+          <b>Tule ottamaan selvää – ja näkemään parhaat palat 25 vuoden teekkarispeksihistoriasta!</b>
         </p>
         </div>
     </div>
