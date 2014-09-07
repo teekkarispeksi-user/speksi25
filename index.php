@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <title>Speksi 25v</title>
+    <title>Teekkarispeksi 25 vuotta</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/style.css" rel="stylesheet">
     <link href='//fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>
@@ -43,7 +43,7 @@
           <div class="navbar-collapse collapse">
             <ul id="nav" class="nav navbar-nav navbar-right text-uppercase">
               <li><a href="#sect-naytelma">Revyy</a></li>
-              <li><a href="#sect-juhla">Vuosijuhla</a></li>
+              <li><a href="#sect-juhla">Juhlagaala</a></li>
               <li><a href="kauppa/" class="external">Liput</a></li>
             </ul>
           </div><!--/.nav-collapse -->
@@ -53,7 +53,7 @@
   	<div class="container-fluid nohpadding">
       <div class="row nomargin image-bar-container">
         <img id="img-top" class="image-bar" src="img/top.jpg" />
-        <div id="juhlaviikko" class="row nomargin text-center text-uppercase">Speksin 25-vuotisjuhlaviikko</div>
+        <div id="juhlaviikko" class="row nomargin text-center text-uppercase">Teekkarispeksin 25-vuotisjuhlaviikko</div>
         <div id="sect-ohjelma" class="section"></div>
       </div>
       <div id="ohjelma" class="row row-centered nomargin content-bar valkoinen">
@@ -61,14 +61,14 @@
         <div class="col-xs-12 col-sm-9 col-lg-8 col-centered">
           <h2>Vuosijuhlaviikon tapahtumat</h2>
           <p>
-            Juhlaviikon ohjelma tarjoaa nähtävää ja koettavaa sekä uusille että erityisesti vanhoille speksiläisille.
+            Juhlaviikon ohjelma tarjoaa nähtävää ja koettavaa sekä uusille että vanhoille speksiläisille. 
           </p>
           <h3>Ohjelma</h3>
           <ul>
-            <li><a href="#sect-naytelma">Juhlarevyy Aleksanterin teatterissa ma 13.10.2014</a></li>
-            <li><a href="#sect-naytelma">Juhlarevyy Aleksanterin teatterissa ti 14.10.2014</a></li>
-            <li><a href="http://teekkarispeksi.fi/speksi/tapahtumat/vanhan-speksin-katseluilta-gorsussa" class="external">Vanhojen speksien katseluilta to 16.10.2014</a></li>
-            <li><a href="#sect-juhla">Vuosijuhlagaala la 18.10.2014</a></li>
+            <li><a href="#sect-naytelma">Juhlarevyy</a> Aleksanterin teatterissa ma 13.10.2014</li>
+            <li>Juhlarevyy Aleksanterin teatterissa ti 14.10.2014</li>
+            <li>Vanhojen speksien <a href="http://teekkarispeksi.fi/speksi/tapahtumat/vanhan-speksin-katseluilta-gorsussa" class="external">katseluilta</a> to 16.10.2014</li>
+            <li><a href="#sect-juhla">Juhlagaala</a> la 18.10.2014</li>
           </ul>
         </div>
       </div>
@@ -86,7 +86,7 @@
         <p>
           <b>Näytösajat:</b> 13.-14.10.2014 kello 19.00<br>
           <b>Paikka:</b> Aleksanterin teatteri, Albertinkatu 32, Helsinki<br>
-          <b>Liput:</b> 20/25 euroa (opiskelijat 15 euroa)
+          <b>Liput:</b> 15 &euro; (opiskelijat), 20/25 &euro; (muut)
         </p>
         <p>
           <a href="kauppa/" class="btn btn-default btn-lg" role="button">Osta lippuja</a>
@@ -118,7 +118,7 @@
           Kyseessä on speksihenkinen iltajuhla, josta kaikenlainen jäykistely on kaukana: mukana on ruokaa, juomaa sekä esityksiä pikkutunneille saakka. Pukukoodi on juhlava mutta vapaamuotoinen. Juhlapaikan hulppeat puitteet tarjoaa Suvilahden Kattilahalli Helsingissä.
         </p>
         <p>
-          Illan aikana halukkailla on mahdollisuus saunoa, joten otathan pyyhkeen mukaan.
+          Juhlagaalan jatkoilla on saunomismahdollisuus, ja pyydämme tästä kiinnostuneita varautumaan omalla pyyhkeellä.
         </p>
         <p>
           <b>Aika:</b> Lauantai 18.10.2014 kello 19 <span class="glyphicon glyphicon-arrow-right glyph-nuoli"></span><br>
@@ -134,7 +134,7 @@
           Tunnetko itsesi tärkeämmäksi kuin muut? Haluatko jakaa menestystäsi meille muille? Haluatko omaa tilaa ja erinomaisempaa palvelua?
         </p>
         <p>
-        Vuosijuhlagaalaan on myynnissä myös rajoitettu erä VIP-paketteja, jotka antavat erinomaisen tavan tarjota tukeaan Teekkarispeksi ry:lle. VIP-vierailla on oma sisäänkäynti ohi jonojen, erillinen VIP-lounge tarjoiluineen, mahdollisuus päästä backstagelle tapaamaan illan esiintyjiä, sekä paljon muuta!
+        Vuosijuhlagaalaan on myynnissä myös rajoitettu erä VIP-paketteja, jotka antavat erinomaisen tavan tukea Teekkarispeksi ry:n toimintaa. VIP-vierailla on oma sisäänkäynti ohi jonojen, erillinen VIP-lounge tarjoiluineen, mahdollisuus päästä backstagelle tapaamaan illan esiintyjiä sekä paljon muuta!
         </p>
         <p>
           Lisätietoja <a href="kauppa/#/gaala">lippukaupasta.</a>
