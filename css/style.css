@@ -238,6 +238,6 @@ li.gaala {
 
 @media screen and (max-width: 992px) {
 	#nav a {
-		font-size: 22px;
+		font-size: 25px !important;
 	}
 }
