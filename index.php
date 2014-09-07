@@ -148,7 +148,7 @@
       <div id="juhla" class="row row-centered nomargin content-bar mustavalkoinen">
         <div class="col-lg-1 col-centered"></div>
         <div class="col-xs-12 col-sm-9 col-lg-8 col-centered">
-          <h2>Vuosijuhlagaala 18.10.2014</h2>
+          <h2>Juhlagaala 18.10.2014</h2>
           <p>
           Teekkarispeksin 25. juhlavuosi huipentuu lauantaina 18.10.2014 juhlagaalaan, johon ovat lämpimästi tervetulleita kaikki Teekkarispeksin tekemiseen neljännesvuosisadan aikana osallistuneet vanhat ja uudet speksiläiset seuralaisineen. Luonnollisesti myös aikaisempien vuosikymmenten teekkaritempausten speksiläiset ovat tervetulleita mukaan juhliin, sillä nykymuotoinen Teekkarispeksi edistää jo 1930-luvulla alkanutta teekkareiden speksiperinnettä.
         </p>
@@ -172,10 +172,10 @@
           Tunnetko itsesi tärkeämmäksi kuin muut? Haluatko jakaa menestystäsi meille muille? Haluatko omaa tilaa ja erinomaisempaa palvelua?
         </p>
         <p>
-        Vuosijuhlagaalaan on myynnissä myös rajoitettu erä VIP-paketteja, jotka antavat erinomaisen tavan tukea Teekkarispeksi ry:n toimintaa. VIP-vierailla on oma sisäänkäynti ohi jonojen, erillinen VIP-lounge tarjoiluineen, mahdollisuus päästä backstagelle tapaamaan illan esiintyjiä sekä paljon muuta!
+        Juhlaan on saatavilla myös rajoitettu erä VIP-paketteja, jotka antavat erinomaisen tavan tukea Teekkarispeksi ry:n toimintaa. VIP-vierailla on oma sisäänkäynti ohi jonojen, erillinen VIP-lounge tarjoiluineen, mahdollisuus päästä backstagelle tapaamaan illan esiintyjiä sekä paljon muuta!
         </p>
         <p>
-          Lisätietoja <a href="kauppa/#/gaala">lippukaupasta.</a>
+          Lisätietoja <a href="kauppa/#/gaala">lippukaupasta</a> tai sähköpostilla <a href="mailto:teppo.nurminen@speksi25.com?Subject=VIP-kysymys%20juhlagaalasta">teppo.nurminen@speksi25.com</a>.
         </p>
         </div>
       </div>
@@ -200,7 +200,6 @@
       </div>
       <div class="row nomargin image-bar-container">
         <img class="image-bar" src="img/2.jpg" />
-        <div id="sect-juhla" class="section"></div>
       </div>
 	  </div>
 	</body>
