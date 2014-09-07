@@ -124,7 +124,7 @@
         <p>
           <b>Näytösajat:</b> 13.-14.10.2014 kello 19.00<br>
           <b>Paikka:</b> Aleksanterin teatteri, Albertinkatu 32, Helsinki<br>
-          <b>Liput:</b> 15 &euro; (opiskelijat), 20/25 &euro; (muut)
+          <b>Liput:</b> 15/25 &euro; (opiskelijat), 20/25 &euro; (muut)
         </p>
         <p>
           <a href="kauppa/" class="btn btn-default btn-lg" role="button">Osta lippuja</a>
