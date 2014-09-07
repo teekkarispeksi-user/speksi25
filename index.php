@@ -79,7 +79,7 @@
         <div class="col-xs-12 col-sm-9 col-lg-8 col-centered">
           <h2>Vuosijuhlaviikon tapahtumat</h2>
           <p>
-            Teekkarispeksi juhlii 25-vuotista taivaltaan tänä syksynä. Juhlaviikon ohjelma tarjoaa nähtävää ja koettavaa sekä uusille että vanhoille speksiläisille. 
+            Teekkarispeksi juhlii 25-vuotista taivaltaan tänä syksynä. Juhlaviikon ohjelma tarjoaa nähtävää ja koettavaa uusille sekä vanhoille speksiläisille. 
           </p>
           <h3>Ohjelma</h3>
           <ul class="media-list">
@@ -102,7 +102,7 @@
             <a class="btn btn-link btn-ohjelma scroll" href="#sect-juhla">
               <li class="media gaala">
                 <div class="media-body">
-                  <h4 class="media-heading">Vuosijuhlagaala</h4>
+                  <h4 class="media-heading">Juhlagaala</h4>
                   Suvilahden Kattilahallissa la 18.10.2014
                 </div>
               </li>
@@ -124,7 +124,7 @@
         <p>
           <b>Näytösajat:</b> 13.-14.10.2014 kello 19.00<br>
           <b>Paikka:</b> Aleksanterin teatteri, Albertinkatu 32, Helsinki<br>
-          <b>Liput:</b> 15/25 &euro; (opiskelijat), 20/25 &euro; (muut)
+          <b>Liput:</b> 15 &euro; (opiskelijat), 20/25 &euro; (muut)
         </p>
         <p>
           <a href="kauppa/" class="btn btn-default btn-lg" role="button">Osta lippuja</a>
@@ -153,15 +153,15 @@
           Teekkarispeksin 25. juhlavuosi huipentuu lauantaina 18.10.2014 juhlagaalaan, johon ovat lämpimästi tervetulleita kaikki Teekkarispeksin tekemiseen neljännesvuosisadan aikana osallistuneet vanhat ja uudet speksiläiset seuralaisineen. Luonnollisesti myös aikaisempien vuosikymmenten teekkaritempausten speksiläiset ovat tervetulleita mukaan juhliin, sillä nykymuotoinen Teekkarispeksi edistää jo 1930-luvulla alkanutta teekkareiden speksiperinnettä.
         </p>
         <p>
-          Kyseessä on speksihenkinen iltajuhla, josta kaikenlainen jäykistely on kaukana: mukana on ruokaa, juomaa sekä esityksiä pikkutunneille saakka. Pukukoodi on juhlava mutta vapaamuotoinen. Juhlapaikan hulppeat puitteet tarjoaa Suvilahden Kattilahalli Helsingissä.
+          Kyseessä on speksihenkinen iltajuhla, josta kaikenlainen jäykistely on kaukana: mukana on ruokaa, juomaa ja hulvattomia esityksiä pikkutunneille saakka. Pukukoodi on juhlava mutta vapaamuotoinen. Juhlapaikan hulppeat puitteet tarjoaa Suvilahden Kattilahalli Helsingissä. Illan tajunnanräjäyttävä ohjelma julkaistaan tällä sivulla 1.10.2014.
         </p>
         <p>
-          Juhlagaalan jatkoilla on saunomismahdollisuus, ja pyydämme tästä kiinnostuneita varautumaan omalla pyyhkeellä.
+          Gaalan jatkoilla on saunomismahdollisuus, ja pyydämme tästä kiinnostuneita varautumaan omalla pyyhkeellä.
         </p>
         <p>
           <b>Aika:</b> Lauantai 18.10.2014 kello 19 <span class="glyphicon glyphicon-arrow-right glyph-nuoli"></span><br>
           <b>Paikka:</b> Suvilahden Kattilahalli, Sörnäisten rantatie 22, Helsinki<br>
-          <b>Illalliskortit:</b> 50/85 euroa
+          <b>Illalliskortit:</b> 50 &euro; (jäsenet), 85 &euro; (muut)
         </p>
         <p>
           <a href="kauppa/#/gaala" class="btn btn-default btn-lg" role="button">Ilmoittaudu</a>
