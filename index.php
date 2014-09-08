@@ -88,7 +88,7 @@
         <div class="col-xs-12 col-sm-9 col-lg-8 col-centered">
           <h2>Vuosijuhlaviikon tapahtumat</h2>
           <p>
-            Teekkarispeksi juhlii 25-vuotista taivaltaan tänä syksynä. Juhlaviikon ohjelma tarjoaa nähtävää ja koettavaa uusille sekä vanhoille speksiläisille. 
+            Teekkarispeksi juhlii 25-vuotista taivaltaan tänä syksynä. Juhlaviikon ohjelma tarjoaa nähtävää ja koettavaa uusille ja vanhoille speksiläisille. 
           </p>
           <h3>Ohjelma</h3>
           <ul class="media-list">
@@ -103,7 +103,7 @@
             <a class="btn btn-link btn-ohjelma external" href="http://teekkarispeksi.fi/speksi/tapahtumat/vanhan-speksin-katseluilta-gorsussa">
               <li class="media">
                 <div class="media-body katseluilta">
-                  <h4 class="media-heading">Vanhojen speksien katseluilta</h4>
+                  <h4 class="media-heading">Vanhan speksin katseluilta</h4>
                   Gorsussa to 16.10.2014
                 </div>
               </li>
@@ -174,7 +174,10 @@
         </p>
         <p>
           <a href="kauppa/#/gaala" class="btn btn-default btn-lg" role="button">Ilmoittaudu</a>
-          <a href="https://www.facebook.com/events/679685888786138" class="btn btn-default btn-lg btn-fb" role="button">Facebook-tapahtuma</a><br>   
+          <a href="https://www.facebook.com/events/679685888786138" class="btn btn-default btn-lg btn-fb" role="button">Facebook-tapahtuma</a><br>
+        </p>
+        <p>
+          Ilmoittautuminen sulkeutuu maanantaina 6.10.2014, joten hanki oma lippusi jo nyt.
         </p>
         <h3>VIP-vieraaksi?</h3>
         <p>
