@@ -148,6 +148,9 @@
         <p>
           <b>Tule ottamaan selvää – ja näkemään parhaat palat 25 vuoden teekkarispeksihistoriasta!</b>
         </p>
+        <p>
+          Lisätietoja tuottajilta sähköpostitse: <a href="mailto:speksi25v-tuottajat@list.ayy.fi">speksi25v-tuottajat@list.ayy.fi</a>
+        </p>
         </div>
     </div>
     <div class="row nomargin image-bar-container">
