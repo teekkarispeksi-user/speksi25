@@ -78,8 +78,12 @@ p {
 	margin-bottom: 0.8em;
 }
 
-.navbar-toggle {
-	color: white;
+.navbar-default .navbar-toggle .icon-bar {
+	background-color: white;
+}
+
+.navbar-default .navbar-toggle {
+	border: 0;
 }
 
 /**** Header ****/
