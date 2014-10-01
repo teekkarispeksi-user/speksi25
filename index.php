@@ -165,7 +165,7 @@
           Teekkarispeksin 25. juhlavuosi huipentuu lauantaina 18.10.2014 juhlagaalaan, johon ovat lämpimästi tervetulleita kaikki Teekkarispeksin tekemiseen neljännesvuosisadan aikana osallistuneet vanhat ja uudet speksiläiset seuralaisineen. Luonnollisesti myös aikaisempien vuosikymmenten teekkaritempausten speksiläiset ovat tervetulleita mukaan juhliin, sillä nykymuotoinen Teekkarispeksi edistää jo 1930-luvulla alkanutta teekkareiden speksiperinnettä.
         </p>
         <p>
-          Kyseessä on speksihenkinen iltajuhla, josta kaikenlainen jäykistely on kaukana: mukana on ruokaa, juomaa ja hulvattomia esityksiä pikkutunneille saakka. Pukukoodi on juhlava mutta vapaamuotoinen. Juhlapaikan hulppeat puitteet tarjoaa Suvilahden Kattilahalli Helsingissä. Illan tajunnanräjäyttävä ohjelma julkaistaan tällä sivulla 1.10.2014.
+          Kyseessä on speksihenkinen iltajuhla, josta kaikenlainen jäykistely on kaukana: mukana on ruokaa, juomaa ja hulvattomia esityksiä pikkutunneille saakka. Pukukoodi on juhlava mutta vapaamuotoinen. Juhlapaikan hulppeat puitteet tarjoaa Suvilahden Kattilahalli Helsingissä. Illan tajunnanräjäyttävä ohjelma julkaistaan tällä sivulla pian.
         </p>
         <p>
           Gaalan jatkoilla on saunomismahdollisuus, ja pyydämme tästä kiinnostuneita varautumaan omalla pyyhkeellä.
@@ -180,7 +180,7 @@
           <a href="https://www.facebook.com/events/679685888786138" class="btn btn-default btn-lg btn-fb" role="button">Facebook-tapahtuma</a><br>
         </p>
         <p>
-          Ilmoittautuminen sulkeutuu maanantaina 6.10.2014, joten hanki oma lippusi jo nyt.
+          Ilmoittautuminen sulkeutuu <strong>maanantaina 6.10.2014 kello 23.59</strong>, joten hanki oma lippusi jo nyt.
         </p>
         <h3>VIP-vieraaksi?</h3>
         <p>
