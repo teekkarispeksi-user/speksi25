@@ -176,11 +176,10 @@
           <b>Illalliskortit:</b> 50 &euro; (jäsenet), 85 &euro; (muut)
         </p>
         <p>
-          <a href="kauppa/#/gaala" class="btn btn-default btn-lg" role="button">Ilmoittaudu</a>
           <a href="https://www.facebook.com/events/679685888786138" class="btn btn-default btn-lg btn-fb" role="button">Facebook-tapahtuma</a><br>
         </p>
         <p>
-          Ilmoittautuminen sulkeutuu <strong>maanantaina 6.10.2014 kello 23.59</strong>, joten hanki oma lippusi jo nyt.
+          Ilmoittautuminen on sulkeutunu. Jos tunnet jääneesi rannalle, niin ota yhteyttä <a href="mailto:teppo.nurminen@speksi25.com?Subject=Apua%20tahdon%2025-v%20gaalaan">teppo.nurminen@speksi25.com</a>.
         </p>
         <h3>VIP-vieraaksi?</h3>
         <p>
@@ -190,7 +189,7 @@
         Juhlaan on saatavilla myös rajoitettu erä VIP-paketteja, jotka antavat erinomaisen tavan tukea Teekkarispeksi ry:n toimintaa. VIP-vierailla on oma sisäänkäynti ohi jonojen, erillinen VIP-lounge tarjoiluineen, mahdollisuus päästä backstagelle tapaamaan illan esiintyjiä sekä paljon muuta! VIP-elämyksen hinta on vain 125 &euro;.
         </p>
         <p>
-          Lisätietoja <a href="kauppa/#/gaala">lippukaupasta</a> tai sähköpostilla <a href="mailto:teppo.nurminen@speksi25.com?Subject=VIP-kysymys%20juhlagaalasta">teppo.nurminen@speksi25.com</a>.
+          Lisätietoja sähköpostilla <a href="mailto:teppo.nurminen@speksi25.com?Subject=VIP-kysymys%20juhlagaalasta">teppo.nurminen@speksi25.com</a>.
         </p>
         </div>
       </div>
