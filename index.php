@@ -179,7 +179,7 @@
           <a href="https://www.facebook.com/events/679685888786138" class="btn btn-default btn-lg btn-fb" role="button">Facebook-tapahtuma</a><br>
         </p>
         <p>
-          Ilmoittautuminen on sulkeutunu. Jos tunnet jääneesi rannalle, niin ota yhteyttä <a href="mailto:teppo.nurminen@speksi25.com?Subject=Apua%20tahdon%2025-v%20gaalaan">teppo.nurminen@speksi25.com</a>.
+          Ilmoittautuminen on sulkeutunu. Jos tunnet jääneesi rannalle, niin ota yhteyttä <a href="mailto:teppo.nurminen@speksi25.com?Subject=Apua%2C+tahdon+25-v+gaalaan">teppo.nurminen@speksi25.com</a>.
         </p>
         <h3>VIP-vieraaksi?</h3>
         <p>
