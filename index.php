@@ -165,21 +165,113 @@
           Teekkarispeksin 25. juhlavuosi huipentuu lauantaina 18.10.2014 juhlagaalaan, johon ovat lämpimästi tervetulleita kaikki Teekkarispeksin tekemiseen neljännesvuosisadan aikana osallistuneet vanhat ja uudet speksiläiset seuralaisineen. Luonnollisesti myös aikaisempien vuosikymmenten teekkaritempausten speksiläiset ovat tervetulleita mukaan juhliin, sillä nykymuotoinen Teekkarispeksi edistää jo 1930-luvulla alkanutta teekkareiden speksiperinnettä.
         </p>
         <p>
-          Kyseessä on speksihenkinen iltajuhla, josta kaikenlainen jäykistely on kaukana: mukana on ruokaa, juomaa ja hulvattomia esityksiä pikkutunneille saakka. Pukukoodi on juhlava mutta vapaamuotoinen. Juhlapaikan hulppeat puitteet tarjoaa Suvilahden Kattilahalli Helsingissä. Illan tajunnanräjäyttävä ohjelma julkaistaan tällä sivulla pian.
+          Kyseessä on speksihenkinen iltajuhla, josta kaikenlainen jäykistely on kaukana: mukana on ruokaa, juomaa ja hulvattomia esityksiä pikkutunneille saakka. Pukukoodi on juhlava mutta speksikkään vapaamuotoinen. Juhlapaikan hulppeat puitteet tarjoaa Suvilahden Kattilahalli Helsingissä.
         </p>
+        <h3>Illan ohjelma</h3>
+        <ul class="medialist">
+          <li class="media">
+            <div class="media-body">
+              <h4 class="media-heading">18:30</h4>
+              Ovet aukeavat
+            </div>
+          </li>
+          <li class="media">
+            <div class="media-body">
+              <h4 class="media-heading">19:00</h4>
+              Tervetuliaissanat
+            </div>
+          </li>
+          <li class="media">
+            <div class="media-body">
+              <h4 class="media-heading">Tanssiesitys</h4>
+            </div>
+          </li>
+          <li class="media">
+            <div class="media-body">
+              <h4 class="media-heading">Alkupalat</h4>
+            </div>
+          </li>
+          <li class="media">
+            <div class="media-body">
+              <h4 class="media-heading">Puhe</h4>
+            </div>
+          </li>
+          <li class="media">
+            <div class="media-body">
+              <h4 class="media-heading">Trio Stau</h4>
+            </div>
+          </li>
+          <li class="media">
+            <div class="media-body">
+              <h4 class="media-heading">Kultaiset Veijot</h4>
+            </div>
+          </li>
+          <li class="media">
+            <div class="media-body">
+              <h4 class="media-heading">Pääruoka</h4>
+            </div>
+          </li>
+          <li class="media">
+            <div class="media-body">
+              <h4 class="media-heading">Hallitusvaihto</h4>
+            </div>
+          </li>
+          <li class="media">
+            <div class="media-body">
+              <h4 class="media-heading">Tanssiesitys</h4>
+            </div>
+          </li>
+          <li class="media">
+            <div class="media-body">
+              <h4 class="media-heading">Kahvi ja kakku</h4>
+            </div>
+          </li>
+          <li class="media">
+            <div class="media-body">
+              <h4 class="media-heading">50-klubi</h4>
+            </div>
+          </li>
+          <li class="media">
+            <div class="media-body">
+              <h4 class="media-heading">Nostalgiatrippi</h4>
+            </div>
+          </li>
+          <li class="media">
+            <div class="media-body">
+              <h4 class="media-heading">22.00</h4>
+              Jatkot alkavat
+            </div>
+          </li>
+          <li class="media">
+            <div class="media-body">
+              <h4 class="media-heading">DJ Jerome ja speksibiisit</h4>
+            </div>
+          </li>
+          <li class="media">
+            <div class="media-body">
+              <h4 class="media-heading">Jaaratron</h4>
+            </div>
+          </li>
+          <li class="media">
+            <div class="media-body">
+              <h4 class="media-heading">Sauna</h4>
+            </div>
+          </li>
+        </ul>
         <p>
           Gaalan jatkoilla on saunomismahdollisuus, ja pyydämme tästä kiinnostuneita varautumaan omalla pyyhkeellä.
         </p>
         <p>
           <b>Aika:</b> Lauantai 18.10.2014 kello 19 <span class="glyphicon glyphicon-arrow-right glyph-nuoli"></span><br>
           <b>Paikka:</b> Suvilahden Kattilahalli, Sörnäisten rantatie 22, Helsinki<br>
-          <b>Illalliskortit:</b> 50 &euro; (jäsenet), 85 &euro; (muut)
+          <b>Illalliskortit:</b> 50 &euro; (jäsenet), 85 &euro; (muut), 20 &euro; (vain jatkot)
         </p>
         <p>
+          <a href="kauppa/" class="btn btn-default btn-lg" role="button">Lippuja jatkoille!</a>
           <a href="https://www.facebook.com/events/679685888786138" class="btn btn-default btn-lg btn-fb" role="button">Facebook-tapahtuma</a><br>
         </p>
         <p>
-          Ilmoittautuminen on sulkeutunu. Jos tunnet jääneesi rannalle, niin ota yhteyttä <a href="mailto:teppo.nurminen@speksi25.com?Subject=Apua%2C+tahdon+25-v+gaalaan">teppo.nurminen@speksi25.com</a>.
+          Ilmoittautuminen varsinaiseen gaalaan on sulkeutunut, mutta jatkoille mahdut vielä mukaan. Jatkot alkavat musiikkiesityksillä kello 22.00 samassa tilassa kun itse Gaala, ja jatkuvat lähistöllä aamuun saakka. <a href="kauppa/">Lippuja saatavilla!</a>
         </p>
         <h3>VIP-vieraaksi?</h3>
         <p>
