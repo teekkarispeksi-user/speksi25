@@ -271,7 +271,7 @@
           <a href="https://www.facebook.com/events/679685888786138" class="btn btn-default btn-lg btn-fb" role="button">Facebook-tapahtuma</a><br>
         </p>
         <p>
-          Ilmoittautuminen varsinaiseen gaalaan on sulkeutunut, mutta jatkoille mahdut vielä mukaan. Jatkot alkavat musiikkiesityksillä kello 22.00 samassa tilassa kun itse Gaala, ja jatkuvat lähistöllä aamuun saakka. <a href="kauppa/">Lippuja saatavilla!</a>
+          Ilmoittautuminen varsinaiseen gaalaan on sulkeutunut, mutta jatkoille mahdut vielä mukaan. Jatkot alkavat musiikkiesityksillä kello 22.00 samassa tilassa kun itse Gaala, ja jatkuvat lähistöllä aamuun saakka. <a href="kauppa/">Lippuja saatavilla!</a> Jatkot kuuluvat luonnollisesti vakiovarusteena kaikkiin illalliskortteihin.
         </p>
         <h3>VIP-vieraaksi?</h3>
         <p>
